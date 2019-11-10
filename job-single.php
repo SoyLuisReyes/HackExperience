@@ -4,8 +4,8 @@
 
     <div class="unit-5 overlay" style="background-image: url('assets/images/hero_bg_2.jpg');">
       <div class="container text-center">
-        <h2 class="mb-0">Full Stack Developer</h2>
-        <p class="mb-0 unit-6"><a href="index.html">Home</a> <span class="sep">></span> <span>Job Item</span></p>
+        <h2 class="mb-0">Ofertas laborales</h2>
+        <p class="mb-0 unit-6"><a href="index.html">Principal</a> <span class="sep">></span> <span>Ofertas</span></p>
       </div>
     </div>
 
@@ -33,8 +33,44 @@
                </div>
               </div>
               
+              <form action="" method="get">
+                 <div class="form-group">
+                  <label for="exampleInputEmail1">Nombre</label>
+                  <input class="form-control" type="text" placeholder="">
+                </div>
+
+                <div class="form-group">
+                  <label for="exampleInputEmail1">Apellido</label>
+                  <input class="form-control" type="text" placeholder="">
+                </div>
+
+                <div class="form-group">
+                  <label for="exampleInputEmail1">Edad</label>
+                  <input class="form-control" type="text" placeholder="">
+                </div>
+
+                <div class="form-group">
+                  <label for="exampleInputEmail1">Universidad</label>
+                  <input class="form-control" type="text" placeholder="">
+                </div>
+
+                <div class="form-group">
+                  <label for="exampleInputEmail1">Descripcion</label>
+                  <input class="form-control" type="text" placeholder="">
+                </div>
+
+                <div class="form-group">
+                  <label for="exampleInputEmail1">Estado Civil</label>
+                  <input class="form-control" type="text" placeholder="">
+                </div>
+
+                <div class="form-group">
+                  <label for="exampleInputEmail1">Telefono</label>
+                  <input class="form-control" type="text" placeholder="">
+                </div>
+              </form>
                 <!-- Aqui va el formulario  -->
-                <h2>formulario o test</h2>
+               
 
               <p class="mt-5"><a href="#" class="btn btn-primary  py-2 px-4">Aplicar ahora</a></p>
             </div>
